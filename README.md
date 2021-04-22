@@ -7,12 +7,12 @@ My personal ZSH theme. This theme was originally based on Zsh's famous [alanpeab
 [![Repo size](https://img.shields.io/github/repo-size/michaelpass/michaelpass.zsh-theme?style=plastic)](https://github.com/michaelpass/michaelpass.zsh-theme)
 [![Stars](https://img.shields.io/github/stars/michaelpass/michaelpass.zsh-theme?style=plastic)](https://github.com/michaelpass/michaelpass.zsh-theme)
 
-<center><img src="https://github.com/michaelpass/michaelpass.zsh-theme/blob/master/Pictures/ZSH%20and%20tmux.png?raw=true" width="626" height="400"></img></center>
+<center><img src="https://github.com/michaelpass/michaelpass.zsh-theme/blob/main/Pictures/ZSH%20and%20tmux.png?raw=true" width="626" height="400"></img></center>
 
 ---
 
 # Installation
-See [INSTALL.md](https://github.com/michaelpass/michaelpass.zsh-theme/blob/master/INSTALL.md)
+See [INSTALL.md](https://github.com/michaelpass/michaelpass.zsh-theme/blob/main/INSTALL.md)
 
 
 ## Dependencies
