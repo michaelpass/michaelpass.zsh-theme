@@ -16,8 +16,9 @@ See [INSTALL.md](https://github.com/michaelpass/michaelpass.zsh-theme/blob/main/
 
 
 ## Dependencies
-- Z shell
-- Limited unicode character support in native terminal (for error return markers; otherwise, these render as undecipherable [Mojibake](https://en.wikipedia.org/wiki/Mojibake).)
+- [Z shell](https://www.zsh.org/) (Ideally installed through your distro's package manager)
+- Limited [unicode character support](https://stackoverflow.com/questions/60758736/how-to-add-unicode-characters-to-zsh-prompt) in native terminal (for error return markers; otherwise, these render as undecipherable [Mojibake](https://en.wikipedia.org/wiki/Mojibake).)
+- Basic Zsh [terminal color](https://unix.stackexchange.com/questions/148/colorizing-your-terminal-and-shell-environment) support
 
 
 ## How It Works
