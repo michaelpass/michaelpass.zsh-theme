@@ -1,8 +1,9 @@
 # Installation
 
 
-This theme is packaged as a Zsh theme to make it easier to use if you're already using a Zsh framework. If you don't already use a framework, [@unixorn](https://github.com/unixorn) highly recommends [Zgenom](https://github.com/jandamm/zgenom), because it is fast and also supports using [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)'s internal plugins/themes. I personally do all of my plugin/theme management through [Oh My Zsh](https://ohmyz.sh/), an thus owe its many developers an eternal debt of gratitude.
+This software is packaged as a Zsh theme to make it easier to use if you're already using a Zsh framework. If you don't already use a framework, [@unixorn](https://github.com/unixorn) highly recommends [Zgenom](https://github.com/jandamm/zgenom), because it is fast and also supports using [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)'s internal plugins/themes. I personally do all of my plugin/theme management through [Oh My Zsh](https://ohmyz.sh/), an thus owe its many developers an eternal debt of gratitude.
 
+---
 
 ### Oh My Zsh
 
@@ -51,7 +52,7 @@ This theme is packaged as a Zsh theme to make it easier to use if you're already
 
 Note: Simply moving the theme to your ZSH themes folder and changing the current theme to "michaelpass" should work universally, regardless of what Zsh framework you choose.
 
-
+---
 
 p.s. If you haven't checked out already, please check out Oh My Zsh:
 https://ohmyz.sh/
