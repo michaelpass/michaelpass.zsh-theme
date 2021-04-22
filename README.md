@@ -22,7 +22,7 @@ See [INSTALL.md](https://github.com/michaelpass/michaelpass.zsh-theme/blob/main/
 
 
 ## How It Works
-I basically hacked and spliced [alanpeabody](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/alanpeabody.zsh-theme) code with tips and tricks from [@christoomey](https://github.com/christoomey) and his masterfully produced [Thoughtbot lecture series](https://thoughtbot.com/upcase/mastering-git).
+I simply hacked together [alanpeabody](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/alanpeabody.zsh-theme) code with tips and tricks from [@christoomey](https://github.com/christoomey) and his masterfully produced [Thoughtbot lecture series](https://thoughtbot.com/upcase/mastering-git).
 
 
 Note: This [Thoughtbot](https://thoughtbot.com) lecture series is currently free to access for all GitHub members.
