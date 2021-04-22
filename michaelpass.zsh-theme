@@ -5,10 +5,6 @@
 
 # ------------------------ Text Computation -----------------------------
 
-# # User/directory prompt information - Deprecacted
-# local user='%{$fg[green]%}%n%{$fg_bold[white]%}@%{$fg_bold[yellow]%}%m%{$reset_color%}'
-# local pwd='%{$fg_bold[blue]%}%~%{$reset_color%}'
-
 # Ruby version manager
 local rvm=''
 if which rvm-prompt &> /dev/null; then
@@ -38,11 +34,8 @@ ZSH_THEME_GIT_PROMPT_UNMERGED="%{$fg[yellow]%}═ "
 ZSH_THEME_GIT_PROMPT_UNTRACKED="%{$fg[cyan]%}✭ "
 
 # ------------------------ Text Display -----------------------------------
-# Old version
-#PROMPT="${user}:${pwd}$ "
-#RPROMPT="${return_code} ${git_branch} ${rvm}"
 
-# TODO - Clean up prompt with ${user} and ${pwd}
+# TODO - Clean up prompt with ${user} and ${pwd} to be more human-readable
 
 # New version
 PROMPT="
