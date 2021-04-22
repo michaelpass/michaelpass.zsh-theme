@@ -2,7 +2,10 @@
 My personal ZSH theme. This theme was originally based on Zsh's famous [alanpeabody](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/alanpeabody.zsh-theme) theme and was modified slowly over time to something I personally enjoy coding with.
 
 [![License](https://img.shields.io/github/license/michaelpass/michaelpass.zsh-theme?style=plastic)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[![Issues](https://img.shields.io/github/issues/michaelpass/michaelpass.zsh-theme?style=plastic)](https://github.com/michaelpass/michaelpass.zsh-theme/issues)
 [![Downloads](https://img.shields.io/github/downloads/michaelpass/michaelpass.zsh-theme/latest/total?style=plastic)](https://github.com/michaelpass/michaelpass.zsh-theme)
+[![Repo size](https://img.shields.io/github/repo-size/michaelpass/michaelpass.zsh-theme?style=plastic)](https://github.com/michaelpass/michaelpass.zsh-theme)
+[![Stars](https://img.shields.io/github/stars/michaelpass/michaelpass.zsh-theme?style=plastic)](https://github.com/michaelpass/michaelpass.zsh-theme)
 
 <center><img src="https://github.com/michaelpass/michaelpass.zsh-theme/blob/master/Pictures/ZSH%20and%20tmux.png?raw=true" width="626" height="400"></img></center>
 
