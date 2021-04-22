@@ -5,9 +5,16 @@ This theme is packaged as a ZSH plugin to make it easier to use if you're alread
 
 
 ### Oh My Zsh
-1. `cd ~/.oh-my-zsh/custom/plugins`
+1. `cd` # Move to user $HOME directory (i.e. "~")`
 2. `git clone git@github.com:michaelpass/michaelpass.zsh-theme michaelpass`
-3. Add michaelpass to your plugin list - edit `~.zshrc` and change `plugins=(...)` to `plugins=(... michaelpass)`
+3. `cd michaelpass` # Move into newly created directory
+4. `cp michaelpass-zsh.theme $ZSH/themes` # Copy theme to themes directory
+5. Change current theme to `michaelpass`:
+    - edit `~.zshrc` and change `ZSH_THEME="..."` to `ZSH_THEME="michaelpass"`
+6. `source ~/.zshrc`
+8. Happy Hacking!
+
+Note: Simply moving the theme to your ZSH themes folder and changing the current theme to "michaelpass" should work universally, regardless of what Zsh framework you choose.
 
 p.s. If you haven't checked out already, please check out Oh My Zsh:
 https://ohmyz.sh/
