@@ -1,5 +1,5 @@
 # michaelpass.zsh-theme
-My personal ZSH theme. This theme was originally based on Zsh's famous [alanpeabody](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/alanpeabody.zsh-theme) theme and was modified slowly over time to something I personally enjoy coding with.
+My personal Zsh theme. This theme was originally based on Zsh's famous [alanpeabody](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/alanpeabody.zsh-theme) theme and was modified slowly over time to something I personally enjoy coding with.
 
 [![License](https://img.shields.io/github/license/michaelpass/michaelpass.zsh-theme?style=plastic)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 [![Issues](https://img.shields.io/github/issues/michaelpass/michaelpass.zsh-theme?style=plastic)](https://github.com/michaelpass/michaelpass.zsh-theme/issues)
