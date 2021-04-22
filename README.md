@@ -12,11 +12,12 @@ See [INSTALL.md](null)
 
 
 ## Dependencies
--Z shell
+- Z shell
+- Limited unicode character support in native terminal (for error return markers; otherwise, these render as undecipherable [Mojibake](https://en.wikipedia.org/wiki/Mojibake).
 
 
 ## How It Works
-
+I basically hacked and spliced [alanpeabody](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/alanpeabody.zsh-theme) code with tips and tricks from @christoomey's masterfully produced [Thoughtbot lecture series](https://thoughtbot.com/upcase/mastering-git). Note: Currently free to access for all GitHub members.
 
 ---
 
