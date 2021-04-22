@@ -13,7 +13,7 @@ See [INSTALL.md](null)
 
 ## Dependencies
 - Z shell
-- Limited unicode character support in native terminal (for error return markers; otherwise, these render as undecipherable [Mojibake](https://en.wikipedia.org/wiki/Mojibake).
+- Limited unicode character support in native terminal (for error return markers; otherwise, these render as undecipherable [Mojibake](https://en.wikipedia.org/wiki/Mojibake).)
 
 
 ## How It Works
