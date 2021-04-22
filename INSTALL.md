@@ -10,7 +10,7 @@ This theme is packaged as a ZSH theme to make it easier to use if you're already
 3. `cd michaelpass` # Move into newly created directory
 4. `cp michaelpass-zsh.theme $ZSH/themes` # Copy theme to themes directory
 5. Change current theme to `michaelpass`:
-    - edit `~.zshrc` and change `ZSH_THEME="..."` to `ZSH_THEME="michaelpass"`
+    - edit `~/.zshrc` and change `ZSH_THEME="..."` to `ZSH_THEME="michaelpass"`
 6. `source ~/.zshrc`
 8. Happy Hacking!
 
