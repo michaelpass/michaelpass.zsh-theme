@@ -18,7 +18,7 @@ See [INSTALL.md](null)
 
 
 ## How It Works
-I basically hacked and spliced [alanpeabody](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/alanpeabody.zsh-theme) code with tips and tricks from @christoomey's masterfully produced [Thoughtbot lecture series](https://thoughtbot.com/upcase/mastering-git). Note: Currently free to access for all GitHub members.
+I basically hacked and spliced [alanpeabody](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/alanpeabody.zsh-theme) code with tips and tricks from @christoomey and his masterfully produced [Thoughtbot lecture series](https://thoughtbot.com/upcase/mastering-git). Note: Currently free to access for all GitHub members.
 
 ---
 
