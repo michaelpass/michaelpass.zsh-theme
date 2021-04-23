@@ -35,7 +35,7 @@ This software is packaged as a Zsh theme to make it easier to use if you're alre
 5. Edit current theme to `michaelpass`:
 
 
-    Open `~/.zshrc` and change `ZSH_THEME="..."` to `ZSH_THEME="michaelpass"`. Save.`
+    Open `~/.zshrc` and change `ZSH_THEME="..."` to `ZSH_THEME="michaelpass"`. Save.
 
 
 6. Reload Zsh config file:
@@ -50,7 +50,7 @@ This software is packaged as a Zsh theme to make it easier to use if you're alre
 ### POSIX-compliance
 
 
-Note: Simply moving the theme to your ZSH themes folder and changing the current theme to "michaelpass" should work universally, regardless of what Zsh framework you choose.
+Note: Simply moving the theme to your Zsh themes folder and changing the current theme to "michaelpass" should work universally, regardless of what Zsh framework you choose.
 
 ---
 
